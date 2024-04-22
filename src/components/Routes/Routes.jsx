@@ -13,6 +13,7 @@ const AppRoutes = () => (
   <Routes>
     <Route
       index
+      path={ROUTES.HOME}
       element={<Home />}
     />
     <Route
