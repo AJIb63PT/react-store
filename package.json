@@ -1,6 +1,7 @@
 {
   "name": "store",
   "version": "0.1.0",
+  "homepage": "/react-store",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
