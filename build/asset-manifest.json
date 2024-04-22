@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-path/static/css/main.db47ddd3.css",
-    "main.js": "/my-path/static/js/main.33401bff.js",
-    "static/media/computer.png": "/my-path/static/media/computer.f81bdc46f6bf20ffb6df.png",
-    "static/media/banner.jpg": "/my-path/static/media/banner.e9a66d1a52e4c585d0d7.jpg",
-    "static/media/no_image.png": "/my-path/static/media/no_image.5af7ff91570e123cae4e.png",
-    "static/media/devices.png": "/my-path/static/media/devices.a0974f63230d0b90cbec.png",
-    "static/media/shoe.png": "/my-path/static/media/shoe.db601c8f04844976b606.png",
-    "static/media/avatar.jpg": "/my-path/static/media/avatar.d69a543f1f5d098682a2.jpg",
-    "static/media/logo.svg": "/my-path/static/media/logo.5871cf6e6fcc04842e0adb6bcfd69668.svg",
-    "index.html": "/my-path/index.html",
-    "main.db47ddd3.css.map": "/my-path/static/css/main.db47ddd3.css.map",
-    "main.33401bff.js.map": "/my-path/static/js/main.33401bff.js.map"
+    "main.css": "/react-store/static/css/main.1809b917.css",
+    "main.js": "/react-store/static/js/main.8ac7e1b4.js",
+    "static/media/computer.png": "/react-store/static/media/computer.f81bdc46f6bf20ffb6df.png",
+    "static/media/banner.jpg": "/react-store/static/media/banner.e9a66d1a52e4c585d0d7.jpg",
+    "static/media/no_image.png": "/react-store/static/media/no_image.5af7ff91570e123cae4e.png",
+    "static/media/devices.png": "/react-store/static/media/devices.a0974f63230d0b90cbec.png",
+    "static/media/shoe.png": "/react-store/static/media/shoe.db601c8f04844976b606.png",
+    "static/media/avatar.jpg": "/react-store/static/media/avatar.d69a543f1f5d098682a2.jpg",
+    "static/media/logo.svg": "/react-store/static/media/logo.5871cf6e6fcc04842e0adb6bcfd69668.svg",
+    "index.html": "/react-store/index.html",
+    "main.1809b917.css.map": "/react-store/static/css/main.1809b917.css.map",
+    "main.8ac7e1b4.js.map": "/react-store/static/js/main.8ac7e1b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.db47ddd3.css",
-    "static/js/main.33401bff.js"
+    "static/css/main.1809b917.css",
+    "static/js/main.8ac7e1b4.js"
   ]
 }
