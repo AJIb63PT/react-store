@@ -90,7 +90,7 @@ const Header = () => {
                         key={id}
                         onClick={() => setSearchValue('')}
                         className={styles.item}
-                        to={`/products/${id}`}
+                        to={`/react-store/products/${id}`}
                       >
                         <div
                           className={styles.image}

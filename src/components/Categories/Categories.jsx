@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { ROUTES } from '../../utils/routes';
 
 import styles from '../../styles/Categories.module.css';
 
@@ -13,7 +14,7 @@ const Categories = ({ title, products = [], amount }) => {
       <div className={styles.list}>
         {list.map(({ id, name, image }) => (
           <Link
-            to={`/categories/${id}`}
+            to={`/react-store/categories/${id}`}
             key={id}
             className={styles.item}
           >

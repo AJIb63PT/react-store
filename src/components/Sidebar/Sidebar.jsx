@@ -16,7 +16,7 @@ const Sidebar = () => {
             <li key={id}>
               <NavLink
                 className={({ isActive }) => `${styles.link} ${isActive ? styles.active : ''}`}
-                to={`/categories/${id}`}
+                to={`/react-store/categories/${id}`}
               >
                 {name}
               </NavLink>
